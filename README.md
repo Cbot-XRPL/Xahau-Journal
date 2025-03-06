@@ -1,4 +1,4 @@
-### Xahau Journal
+# Xahau Journal
 The Xahau cheatsheet
 
 ## General
