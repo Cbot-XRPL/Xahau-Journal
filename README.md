@@ -2,6 +2,7 @@
 The Xahau cheatsheet
 
 ## General
+your standard blockchain links
 
 |Link|Description|
 |-----------|-------|
@@ -9,6 +10,7 @@ The Xahau cheatsheet
 
 
 ## Tools
+Top tools for using Xahau
 
 |Link|Description|
 |-----------|-------|
@@ -19,6 +21,7 @@ The Xahau cheatsheet
 
 
 ## Validator Data
+Information useful if your running a validator or node
 
 |Link|Description|
 |-----------|-------|
@@ -26,6 +29,7 @@ The Xahau cheatsheet
 |[Xahau Releases](https://build.xahau.tech/)|current Xahau builds|
 
 ## Ivestment
+Projects focused on Investment 
 
 |Link|Description|
 |-----------|-------|
