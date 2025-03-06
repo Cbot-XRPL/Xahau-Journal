@@ -24,3 +24,9 @@ The Xahau cheatsheet
 |-----------|-------|
 |[Validator List](https://xahauexplorer.com/validators)|List of validator on the Xahau network|
 |[Xahau Releases](https://build.xahau.tech/)|current Xahau builds|
+
+## Ivestment
+
+|Link|Description|
+|-----------|-------|
+|[Xah Invest](https://xahinvest.com/)| Xahau compound interest tool|
