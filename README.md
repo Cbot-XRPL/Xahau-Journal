@@ -45,6 +45,12 @@ Projects focused on Investment
 |-----------|-------|
 |[Xah Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
+## NFTs
+Top NFT Projects on Xahau 
+
+|Link|Description|
+|-----------|------|
+|[Xahau Vault](https://xahinvest.com/)| Autonomous asset minting contract. Revolutionizing NFTs and RWAs with Hook contracts|
 
 ## Tokens
 Top Tokens on Xahau DYOR
@@ -52,3 +58,4 @@ Top Tokens on Xahau DYOR
 |Link|Ticker|Description|
 |-----------|-------|------|
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
+
