@@ -51,5 +51,4 @@ Top Tokens on Xahau
 
 |Link|Ticker|Description|
 |-----------|-------|------|
-
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
