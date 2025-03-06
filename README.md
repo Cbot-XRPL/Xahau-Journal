@@ -44,3 +44,12 @@ Projects focused on Investment
 |Link|Description|
 |-----------|-------|
 |[Xah Invest](https://xahinvest.com/)| Xahau compound interest tool|
+
+
+## Tokens
+Top Tokens on Xahau
+
+|Link|Ticker|Description|
+|-----------|-------|------|
+
+|[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
