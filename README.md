@@ -2,7 +2,7 @@
 The Xahau cheatsheet
 
 ## General
-your standard blockchain links
+Standard blockchain links
 
 |Link|Description|
 |-----------|-------|
