@@ -8,7 +8,7 @@ Standard blockchain links
 |-----------|-------|
 |[Xahau Docs](https://docs.xahau.network/)|How to for Xahau|
 |[Xahau Explorer](https://xahauexplorer.com/)| Standard blockchain Explorer|
-|[Dex](https://xmagnetic.org/?network=xahau)| Decentralized Exchange|
+|[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized Exchange|
 
 ## Tools
 Top tools for using Xahau and Hooks
