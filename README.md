@@ -47,7 +47,7 @@ Projects focused on Investment
 
 
 ## Tokens
-Top Tokens on Xahau
+Top Tokens on Xahau DYOR
 
 |Link|Ticker|Description|
 |-----------|-------|------|
