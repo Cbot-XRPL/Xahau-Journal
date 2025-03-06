@@ -11,7 +11,7 @@ Standard blockchain links
 |[Dex](https://xmagnetic.org/?network=xahau)| Decentralized Exchange|
 
 ## Tools
-Top tools for using Xahau
+Top tools for using Xahau and Hooks
 
 |Link|Description|
 |-----------|-------|
