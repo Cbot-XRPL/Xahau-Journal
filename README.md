@@ -16,7 +16,7 @@ Top tools for using Xahau and Hooks
 |Link|Description|
 |-----------|-------|
 |[Hook Builder](https://hooks.xrpl.org/)| UI for building hook smart contracts|
-|[XRPLWin Hook Testnet](https://xahau-testnet.xrplwin.com/)|Xahau testnet tracker|
+|[XRPLWin Hook Explorer](https://xahau-testnet.xrplwin.com/)|Advanced Xahau blockchain explorer|
 |[Richard's Hook On Calc](https://richardah.github.io/xrpl-hookon-calculator/)|Get a correct hook on setting for your hook|
 |[XRPL Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/)|Tool to hex data for use in hooks|
 |[XRPLWin Hook Install Tool](https://xahau-testnet.xrplwin.com/tools/hook/from-hash)|Tool for installing hooks|
