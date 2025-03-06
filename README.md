@@ -1,12 +1,17 @@
 ## Xahau Journal
-**The Xahau cheatsheet**
+The Xahau cheatsheet
+
+## General
+
+|Link|Description|
+|-----------|-------|
+|[Xahau Docs](https://docs.xahau.network/)|How to for Xahau|
 
 
 ## Tools
 
 |Link|Description|
 |-----------|-------|
-|[Xahau Docs](https://docs.xahau.network/)|How to for Xahau|
 |[XRPLWin Hook Testnet](https://xahau-testnet.xrplwin.com/)|Xahau testnet tracker|
 |[Richard's Hook On Calc](https://richardah.github.io/xrpl-hookon-calculator/)|Get a correct hook on setting for your hook|
 |[XRPL Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/)|Tool to hex data for use in hooks|
