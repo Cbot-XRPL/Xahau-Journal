@@ -1,3 +1,3 @@
 # Xahau-Journal
 The Xahau cheatsheet
-[Validator List](https://xahauexplorer.com/validators)
+- [Validator List](https://xahauexplorer.com/validators)
