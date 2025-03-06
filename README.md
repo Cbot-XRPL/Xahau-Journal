@@ -1,5 +1,5 @@
 ## Xahau Journal
-The Xahau cheatsheet
+**The Xahau cheatsheet**
 
 ## Primary Links
 
