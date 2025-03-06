@@ -50,7 +50,7 @@ Top NFT Projects on Xahau
 
 |Link|Description|
 |-----------|------|
-|[Xahau Vault](https://xahinvest.com/)| Autonomous asset minting contract. Revolutionizing NFTs and RWAs with Hook contracts|
+|[Xahau Vault](https://x.com/xahau_vault)| Autonomous asset minting contract. Revolutionizing NFTs and RWAs with Hook contracts|
 
 ## Tokens
 Top Tokens on Xahau DYOR
