@@ -44,8 +44,8 @@ Projects focused on Investment
 
 |Link|Description|
 |-----------|-------|
-|[Xah Balance Adjustment]([https://xahinvest.com/](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment))| Xah in wallet monthly reward system|
-|[Xah Invest](https://xahinvest.com/)| Xahau compound interest tool|
+|[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)| Xah in wallet monthly reward system|
+|[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
 ## NFTs
 Top NFT Projects on Xahau 
