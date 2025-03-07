@@ -37,7 +37,7 @@ Projects galvanizing a Xahau community
 |Link|Description|
 |-----------|-------|
 |[Xamini](https://xamini.io/)| Table tracker and community page|
-
+|[Xahau Community Discord](https://discord.gg/hhVDGgEgAd)| Community discord|
 
 ## Investment
 Projects focused on Investment 
