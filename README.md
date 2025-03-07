@@ -51,7 +51,8 @@ Top NFT Projects on Xahau
 
 |Link|Description|
 |-----------|------|
-|[Xahau Vault](https://x.com/xahau_vault)| Autonomous asset minting contract. Revolutionizing NFTs and RWAs with Hook contracts|
+|[Xahau Vault](https://x.com/xahau_vault)| Autonomous asset minting contract. Revolutionizing the blockchain space offering high quality NFTs and tokenizing RWAs with Hook contracts.|
+|[Ekiserrepe](https://ekiserrepe.com/my-nft-collections/)| Artist, Developer, contributor, and all around good guy. personalized NFT collections to support a Xahau Validator.|
 
 ## Tokens
 Top Tokens on Xahau DYOR
