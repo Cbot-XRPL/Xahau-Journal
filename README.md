@@ -36,7 +36,7 @@ Projects galvanizing a Xahau community
 
 |Link|Description|
 |-----------|-------|
-|[Xamini](https://xamini.io/ecosystem)| Table tracker and community page|
+|[Xamini](https://xamini.io/)| Table tracker and community page|
 
 
 ## Investment
