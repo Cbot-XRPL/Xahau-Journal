@@ -1,5 +1,5 @@
 # Xahau Journal
-The Xahau cheatsheet
+The Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
 
 ## General
 Standard blockchain links
@@ -7,8 +7,9 @@ Standard blockchain links
 |Link|Description|
 |-----------|-------|
 |[Xahau Docs](https://docs.xahau.network/)|How to for Xahau|
-|[Xahau Explorer](https://xahauexplorer.com/)| Standard blockchain Explorer|
-|[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized Exchange|
+|[Wallet](https://xaman.app/)| Secure and functional XRPL and XAHAU wallet|
+|[Xahau Explorer](https://xahauexplorer.com/)| Standard blockchain explorer|
+|[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized exchange|
 
 ## Tools
 Top tools for using Xahau and Hooks
