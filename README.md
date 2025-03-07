@@ -39,11 +39,12 @@ Projects galvanizing a Xahau community
 |[Xamini](https://xamini.io/ecosystem)| Table tracker and community page|
 
 
-## Ivestment
+## Investment
 Projects focused on Investment 
 
 |Link|Description|
 |-----------|-------|
+|[Xah Balance Adjustment]([https://xahinvest.com/](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment))| Xah in wallet monthly reward system|
 |[Xah Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
 ## NFTs
