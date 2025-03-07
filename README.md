@@ -28,7 +28,7 @@ Information useful if your running a validator or node
 |Link|Description|
 |-----------|-------|
 |[Validator List](https://xahauexplorer.com/validators)|List of validator on the Xahau network|
-|[Xahau Releases](https://build.xahau.tech/)|current Xahau builds|
+|[Xahau Releases](https://build.xahau.tech/)|Current Xahau builds|
 
 
 ## Community 
@@ -48,7 +48,7 @@ Projects focused on Investment
 |[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
 ## NFTs
-Top NFT Projects on Xahau 
+Top NFT projects on Xahau 
 
 |Link|Description|
 |-----------|------|
