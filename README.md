@@ -76,12 +76,14 @@ Projects galvanizing a Xahau community
 |[Xamini](https://xamini.io/)| Table tracker and community page|
 |[Xahau Community Discord](https://discord.gg/hhVDGgEgAd)| Community discord|
 
-## Investment 📈
+## Trading/Investment 📈
 Projects focused on Investment 
 
 |Name/Link|Description|
 |-----------|-------|
-|||
+
+|[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized exchange|
+|[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized exchange|
 |[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
 ## Hooks to ineract with 🪝
@@ -89,8 +91,7 @@ A list of hooks that are designed for user to interact with instead of install o
 
 |Name/Link|Address|Description|
 |-----------|-------|---------|
-|[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)|rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh| To claim a Balance Adjustment on the Xahau network, you need to send a ClaimReward transaction to the Genesis Account. The Genesis Account's address is rHb9CJAWyB4rj91VRWn96DkukG4bwdty.|
-
+|[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)|rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh| The Balance Adjustment Hook on Xahau is a smart contract mechanism linked to the Genesis Account (rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh) that verifies and processes ClaimReward transactions, adjusting user balances based on predefined emission rules. To claim a Balance Adjustment on the Xahau network, you need to send a ClaimReward transaction to the Genesis Account. The Genesis Account's address is rHb9CJAWyB4rj91VRWn96DkukG4bwdty.|
 
 
 
