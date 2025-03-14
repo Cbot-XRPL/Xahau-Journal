@@ -1,7 +1,7 @@
 # Xahau Journal
 The Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
 
-## Basics
+## Basics ☄️
 Standard blockchain links
 
 |Name/Link|Description|
@@ -36,7 +36,7 @@ Top wallets that work with XAH and XRP
 
 
 
-## Tools
+## Tools 🧰
 Top tools for using Xahau and Hooks
 
 |Name/Link|Description|
@@ -51,7 +51,7 @@ Top tools for using Xahau and Hooks
 |[Richard's Base58 Tools](https://richardah.github.io/xrpl-base58-tool/)| Tools to work with Base58|
 |[XRPLWin Hook Install Tool](https://xahau-testnet.xrplwin.com/tools/hook/from-hash)| Tool for installing hooks|
 
-## Validator Data
+## Validator Data 🗄️
 Information useful if your running a validator or node
 
 |Name/Link|Description|
@@ -60,7 +60,7 @@ Information useful if your running a validator or node
 |[Xahau Releases](https://build.xahau.tech/)|Current Xahau builds|
 
 
-## Community 
+## Community 🫂
 Projects galvanizing a Xahau community 
 
 |Name/Link|Description|
@@ -68,7 +68,7 @@ Projects galvanizing a Xahau community
 |[Xamini](https://xamini.io/)| Table tracker and community page|
 |[Xahau Community Discord](https://discord.gg/hhVDGgEgAd)| Community discord|
 
-## Investment
+## Investment 📈
 Projects focused on Investment 
 
 |Name/Link|Description|
@@ -76,7 +76,7 @@ Projects focused on Investment
 |[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)| Xah in wallet monthly reward system|
 |[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
-## NFTs
+## NFTs 🌌
 Top NFT projects on Xahau 
 
 |Name/Link|Description|
@@ -84,7 +84,7 @@ Top NFT projects on Xahau
 |[Xahau Vault](https://x.com/xahau_vault)| Autonomous asset minting contract. Revolutionizing the blockchain space offering high quality NFTs and tokenizing RWAs with Hook contracts.|
 |[Ekiserrepe](https://ekiserrepe.com/my-nft-collections/)| Artist, developer, contributor, and all around good guy. personalized NFT collections to support a Xahau validator.|
 
-## Tokens
+## Tokens 🪙
 Top Tokens on Xahau DYOR
 
 
@@ -97,7 +97,7 @@ Top Tokens on Xahau DYOR
 
 
 
-Thanks [@RichardXRPL](https://x.com/RichardXRPL), [@Hodor](https://x.com/Hodor), [@ainittomai](https://x.com/ainittomai), [@ekiserrepe](https://x.com/ekiserrepe),
+Thanks [@RichardXRPL](https://x.com/RichardXRPL), [@Hodor](https://x.com/Hodor), [@ainittomai](https://x.com/ainittomai), and [@ekiserrepe](https://x.com/ekiserrepe) for your suggestions.
 
 
 
