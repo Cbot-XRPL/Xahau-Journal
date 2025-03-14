@@ -17,7 +17,7 @@ Standard blockchain links
 ## 🎥 Media Links
 Good Information on Xahau and Hook smart contracts
 
-| Name                          | Link                                          |
+| Name/Link                          | Link                                          |
 |-------------------------------|-----------------------------------------------|
 | Xahau Documentary                 | [youtube.com](https://www.youtube.com/watch?v=4pruN6sWJho)|
 | JS Hooks Tutorial                 | [youtube.com](https://www.youtube.com/watch?v=uX7bR2VZAp8)|
