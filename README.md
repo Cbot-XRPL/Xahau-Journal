@@ -12,7 +12,7 @@ Standard blockchain links
 |[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized exchange|
 
 
----
+
 
 ## Media Links 🎥
 Good Information on Xahau and Hook smart contracts
@@ -93,7 +93,7 @@ Top Tokens on Xahau DYOR
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
 
 
-
+---
 
 
 
