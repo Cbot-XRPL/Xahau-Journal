@@ -81,14 +81,15 @@ Projects focused on Investment
 
 |Name/Link|Description|
 |-----------|-------|
-|[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)| Xah in wallet monthly reward system|
+|||
 |[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
 
-## Hooks to ineract with
+## Hooks to ineract with 🪝
 A list of hooks that are designed for user to interact with instead of install on your address. These hooks live on chain and act autonomously. DYOR
 
 |Name/Link|Address|Description|
 |-----------|-------|---------|
+|[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)|rHb9CJAWyB4rj91VRWn96DkukG4bwdtyTh| To claim a Balance Adjustment on the Xahau network, you need to send a ClaimReward transaction to the Genesis Account. The Genesis Account's address is rHb9CJAWyB4rj91VRWn96DkukG4bwdty.|
 
 
 
