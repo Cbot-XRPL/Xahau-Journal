@@ -81,7 +81,6 @@ Projects focused on Investment
 
 |Name/Link|Description|
 |-----------|-----------|
-
 |[xMagnetic Dex](https://xmagnetic.org/?network=xahau)|Decentralized exchange|
 |[xMagnetic Dex](https://xmagnetic.org/?network=xahau)|Decentralized exchange|
 |[XAH Invest](https://xahinvest.com/)|Xahau compound interest tool|
