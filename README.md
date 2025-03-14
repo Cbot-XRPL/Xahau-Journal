@@ -17,22 +17,22 @@ Standard blockchain links
 ## 🎥 Media Links
 Good Information on Xahau and Hook smart contracts
 
-| Name/Link                          | Link                                          |
+| Name/Link                          | Description                                          |
 |-------------------------------|-----------------------------------------------|
-| Xahau Documentary                 | [youtube.com](https://www.youtube.com/watch?v=4pruN6sWJho)|
-| JS Hooks Tutorial                 | [youtube.com](https://www.youtube.com/watch?v=uX7bR2VZAp8)|
-| C Hooks Tutorial | [youtube.com](https://www.youtube.com/watch?v=XgQx49K81do)|
+| [Xahau Documentary ](https://www.youtube.com/watch?v=4pruN6sWJho) | Introduction to Xahau|
+| [JS Hooks Tutorial](https://www.youtube.com/watch?v=uX7bR2VZAp8) | How to use the JS Hook builder |
+| [C Hooks Tutorial](https://www.youtube.com/watch?v=XgQx49K81do) | How to use the C Hook builder|
 
 
 ## 👛 Wallets
 Top wallets that work with XAH and XRP
 
-| Name                          | Link                                          |
+| Name/Link                          | Description                                          |
 |-------------------------------|-----------------------------------------------|
-| Xaman                | [xaman.app](https://xaman.app/)|
-| Crossmark                 | [Crossmark](https://crossmark.io/)|
-| GemWallet                 | [GemWallet](https://gemwallet.app/)|
-| D'CENT                 | [D'CENT](https://www.dcentwallet.com/)|
+| [Xaman.app](https://xaman.app/)               |Prefered wallet with xApps|
+| [Crossmark](https://crossmark.io/)                | Browers Wallet Option|
+| [GemWallet](https://gemwallet.app/)                | New wallet with sleek UI|
+| [D'CENT](https://www.dcentwallet.com/)               |Hardwallet Option|
 
 
 
