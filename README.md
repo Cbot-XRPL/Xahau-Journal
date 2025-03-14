@@ -17,10 +17,14 @@ Top tools for using Xahau and Hooks
 |Link|Description|
 |-----------|-------|
 |[Hook Builder](https://hooks.xrpl.org/)| UI for building hook smart contracts|
+|[Hook Builder](https://hooks.xrpl.org/)| UI for building hook smart contracts|
 |[XRPLWin Hook Explorer](https://xahau-testnet.xrplwin.com/)|Advanced Xahau blockchain explorer|
-|[Richard's Hook On Calc](https://richardah.github.io/xrpl-hookon-calculator/)|Get a correct hook on setting for your hook|
-|[XRPL Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/)|Tool to hex data for use in hooks|
-|[XRPLWin Hook Install Tool](https://xahau-testnet.xrplwin.com/tools/hook/from-hash)|Tool for installing hooks|
+|[XRPL Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/)| Tool to hex data for use in hooks|
+|[Richard's Hook On Calc](https://richardah.github.io/xrpl-binary-visualizer/)| Get a correct Hook On setting for your hook|
+|[Richard's Keylet Tools](https://richardah.github.io/xrpl-keylet-tools/)| Tools to work with Keylets on Xahau|
+|[Richard's XFL Tools](https://richardah.github.io/xfl-tools/)| Tools to work with xfl on Xahau|
+|[Richard's Base58 Tools](https://richardah.github.io/xrpl-base58-tool/)| Tools to work with Base58|
+|[XRPLWin Hook Install Tool](https://xahau-testnet.xrplwin.com/tools/hook/from-hash)| Tool for installing hooks|
 
 ## Validator Data
 Information useful if your running a validator or node
@@ -61,4 +65,10 @@ Top Tokens on Xahau DYOR
 |Link|Ticker|Description|
 |-----------|-------|------|
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
+
+
+
+Thanks @RichardXRPL, 
+
+
 
