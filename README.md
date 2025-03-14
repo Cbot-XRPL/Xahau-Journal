@@ -15,7 +15,6 @@ Standard blockchain links
 ---
 
 ## Media Links 🎥
-
 Good Information on Xahau and Hook smart contracts
 
 | Name/Link                          | Description                                          |
