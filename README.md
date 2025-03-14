@@ -45,6 +45,7 @@ Top tools for using Xahau and Hooks
 
 |Name/Link|Description|
 |-----------|-------|
+|[xahau.services](https://xahau.services/)  | A all in one Xahau tool kit|
 |[hooks-toolkit.com](https://hooks-toolkit.com/) | A well built tool kit outlining Hook building|
 |[C Hook Builder](https://hooks.xrpl.org/)| C UI for building hook smart contracts|
 |[JS Testnet JSHook Builder](https://jshooks-builder.xahau.network/develop)| JS UI for building hook smart contracts|
@@ -55,7 +56,7 @@ Top tools for using Xahau and Hooks
 |[Richard's XFL Tools](https://richardah.github.io/xfl-tools/)| Tools to work with xfl on Xahau|
 |[Richard's Base58 Tools](https://richardah.github.io/xrpl-base58-tool/)| Tools to work with Base58|
 |[XRPLWin Hook Install Tool](https://xahau-testnet.xrplwin.com/tools/hook/from-hash)| Tool for installing hooks|
-|[xahau.services](https://xahau.services/)  | [xahau.services](https://xahau.services/)|
+
 
 ## Validator Data 🗄️
 Information useful if your running a validator or node
