@@ -3,7 +3,7 @@
 [![Gitbook](https://img.shields.io/badge/learn-xahau_docs-fffd57?style=for-the-badge&logo=gitbook)](https://docs.xahau.network/)
 [![Discord](https://img.shields.io/badge/participate-xahau_contributors-fffd57?style=for-the-badge&logo=discord)](https%3A%2F%2Fdiscord.gg%2Fds7nb93mYj)
 
-This is a Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
+This is a Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet is comprised of the websites, tools, and projects on the Xahau Network.
 
 ## Basics ☄️
 Standard blockchain links
@@ -83,6 +83,15 @@ Projects focused on Investment
 |-----------|-------|
 |[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)| Xah in wallet monthly reward system|
 |[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
+
+## Hooks to ineract with
+A list of hooks that are designed for user to interact with instead of install on your address. These hooks live on chain and act autonomously. DYOR
+
+|Name/Link|Address|Description|
+|-----------|-------|---------|
+
+
+
 
 ## NFTs 🌌
 Top NFT projects on Xahau 
