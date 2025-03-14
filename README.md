@@ -1,12 +1,10 @@
 # Xahau Journal
 The Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
 
----
-
 ## Basics
 Standard blockchain links
 
-|Link|Description|
+|Name/Link|Description|
 |-----------|-------|
 |[Xahau Docs](https://docs.xahau.network/)|How to for Xahau|
 |[Wallet](https://xaman.app/)| Secure and functional XRPL and XAHAU wallet|
@@ -26,7 +24,7 @@ Good Information on Xahau and Hook smart contracts
 | [C Hooks Tutorial](https://www.youtube.com/watch?v=XgQx49K81do) | How to use the C Hook builder|
 
 
-## 👛 Wallets
+## Wallets 👛
 Top wallets that work with XAH and XRP
 
 | Name/Link                          | Description                                          |
@@ -41,7 +39,7 @@ Top wallets that work with XAH and XRP
 ## Tools
 Top tools for using Xahau and Hooks
 
-|Link|Description|
+|Name/Link|Description|
 |-----------|-------|
 |[C Hook Builder](https://hooks.xrpl.org/)| C UI for building hook smart contracts|
 |[JS Testnet JSHook Builder](https://jshooks-builder.xahau.network/develop)| JS UI for building hook smart contracts|
@@ -56,7 +54,7 @@ Top tools for using Xahau and Hooks
 ## Validator Data
 Information useful if your running a validator or node
 
-|Link|Description|
+|Name/Link|Description|
 |-----------|-------|
 |[Validator List](https://xahauexplorer.com/validators)|List of validator on the Xahau network|
 |[Xahau Releases](https://build.xahau.tech/)|Current Xahau builds|
@@ -65,7 +63,7 @@ Information useful if your running a validator or node
 ## Community 
 Projects galvanizing a Xahau community 
 
-|Link|Description|
+|Name/Link|Description|
 |-----------|-------|
 |[Xamini](https://xamini.io/)| Table tracker and community page|
 |[Xahau Community Discord](https://discord.gg/hhVDGgEgAd)| Community discord|
@@ -73,7 +71,7 @@ Projects galvanizing a Xahau community
 ## Investment
 Projects focused on Investment 
 
-|Link|Description|
+|Name/Link|Description|
 |-----------|-------|
 |[XAH Balance Adjustment](https://help.xaman.app/app/all-about-xapps/xahau-xapps/balance-adjustment)| Xah in wallet monthly reward system|
 |[XAH Invest](https://xahinvest.com/)| Xahau compound interest tool|
@@ -81,7 +79,7 @@ Projects focused on Investment
 ## NFTs
 Top NFT projects on Xahau 
 
-|Link|Description|
+|Name/Link|Description|
 |-----------|------|
 |[Xahau Vault](https://x.com/xahau_vault)| Autonomous asset minting contract. Revolutionizing the blockchain space offering high quality NFTs and tokenizing RWAs with Hook contracts.|
 |[Ekiserrepe](https://ekiserrepe.com/my-nft-collections/)| Artist, developer, contributor, and all around good guy. personalized NFT collections to support a Xahau validator.|
@@ -90,7 +88,7 @@ Top NFT projects on Xahau
 Top Tokens on Xahau DYOR
 
 
-|Link|Ticker|Description|
+|Name/Link|Ticker|Description|
 |-----------|-------|------|
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
 
