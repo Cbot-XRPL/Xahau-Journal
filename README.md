@@ -1,7 +1,7 @@
 # Xahau Journal
 The Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
 
-## General
+## Basics
 Standard blockchain links
 
 |Link|Description|
@@ -16,8 +16,8 @@ Top tools for using Xahau and Hooks
 
 |Link|Description|
 |-----------|-------|
-|[Hook Builder](https://hooks.xrpl.org/)| UI for building hook smart contracts|
-|[Hook Builder](https://hooks.xrpl.org/)| UI for building hook smart contracts|
+|[C Hook Builder](https://hooks.xrpl.org/)| C UI for building hook smart contracts|
+|[JS Testnet JSHook Builder](https://jshooks-builder.xahau.network/develop)| JS UI for building hook smart contracts|
 |[XRPLWin Hook Explorer](https://xahau-testnet.xrplwin.com/)|Advanced Xahau blockchain explorer|
 |[XRPL Hex Visualizer](https://transia-rnd.github.io/xrpl-hex-visualizer/)| Tool to hex data for use in hooks|
 |[Richard's Hook On Calc](https://richardah.github.io/xrpl-binary-visualizer/)| Get a correct Hook On setting for your hook|
@@ -67,8 +67,27 @@ Top Tokens on Xahau DYOR
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
 
 
+### 👛 Wallets
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| Xaman                | [xaman.app](https://xaman.app/)|
+| Crossmark                 | [Crossmark](https://crossmark.io/)|
+| GemWallet                 | [GemWallet](https://gemwallet.app/)|
+| D'CENT                 | [D'CENT](https://www.dcentwallet.com/)|
 
-Thanks @RichardXRPL, 
+
+---
+### 🎥 Media Links
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| Xahau Documentary                 | [youtube.com](https://www.youtube.com/watch?v=4pruN6sWJho)|
+| JS Hooks Tutorial                 | [youtube.com](https://www.youtube.com/watch?v=uX7bR2VZAp8)|
+| C Hooks Tutorial | [youtube.com](https://www.youtube.com/watch?v=XgQx49K81do)|
+
+
+
+
+Thanks [@RichardXRPL](https://x.com/RichardXRPL), [@Hodor](https://x.com/Hodor), [@ainittomai](https://x.com/ainittomai), [@ekiserrepe](https://x.com/ekiserrepe),
 
 
 
