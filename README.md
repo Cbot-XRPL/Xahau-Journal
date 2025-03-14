@@ -1,4 +1,5 @@
 # Xahau Journal
+---
 The Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
 
 ---
