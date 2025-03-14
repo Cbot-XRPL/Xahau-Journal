@@ -87,9 +87,11 @@ Top NFT projects on Xahau
 ## Tokens
 Top Tokens on Xahau DYOR
 
+
 |Link|Ticker|Description|
 |-----------|-------|------|
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
+
 
 
 
