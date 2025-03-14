@@ -11,6 +11,31 @@ Standard blockchain links
 |[Xahau Explorer](https://xahauexplorer.com/)| Standard blockchain explorer|
 |[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized exchange|
 
+
+---
+
+## 🎥 Media Links
+Good Information on Xahau and Hook smart contracts
+
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| Xahau Documentary                 | [youtube.com](https://www.youtube.com/watch?v=4pruN6sWJho)|
+| JS Hooks Tutorial                 | [youtube.com](https://www.youtube.com/watch?v=uX7bR2VZAp8)|
+| C Hooks Tutorial | [youtube.com](https://www.youtube.com/watch?v=XgQx49K81do)|
+
+
+## 👛 Wallets
+Top wallets that work with XAH and XRP
+
+| Name                          | Link                                          |
+|-------------------------------|-----------------------------------------------|
+| Xaman                | [xaman.app](https://xaman.app/)|
+| Crossmark                 | [Crossmark](https://crossmark.io/)|
+| GemWallet                 | [GemWallet](https://gemwallet.app/)|
+| D'CENT                 | [D'CENT](https://www.dcentwallet.com/)|
+
+
+
 ## Tools
 Top tools for using Xahau and Hooks
 
@@ -66,23 +91,6 @@ Top Tokens on Xahau DYOR
 |-----------|-------|------|
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
 
-
-### 👛 Wallets
-| Name                          | Link                                          |
-|-------------------------------|-----------------------------------------------|
-| Xaman                | [xaman.app](https://xaman.app/)|
-| Crossmark                 | [Crossmark](https://crossmark.io/)|
-| GemWallet                 | [GemWallet](https://gemwallet.app/)|
-| D'CENT                 | [D'CENT](https://www.dcentwallet.com/)|
-
-
----
-### 🎥 Media Links
-| Name                          | Link                                          |
-|-------------------------------|-----------------------------------------------|
-| Xahau Documentary                 | [youtube.com](https://www.youtube.com/watch?v=4pruN6sWJho)|
-| JS Hooks Tutorial                 | [youtube.com](https://www.youtube.com/watch?v=uX7bR2VZAp8)|
-| C Hooks Tutorial | [youtube.com](https://www.youtube.com/watch?v=XgQx49K81do)|
 
 
 
