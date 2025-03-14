@@ -2,6 +2,7 @@
 [![X](https://img.shields.io/badge/follow-xahau_network-fffd57?style=for-the-badge&logo=x)](https://x.com/xahaunetwork)
 [![Gitbook](https://img.shields.io/badge/learn-xahau_docs-fffd57?style=for-the-badge&logo=gitbook)](https://docs.xahau.network/)
 [![Discord](https://img.shields.io/badge/participate-xahau_contributors-fffd57?style=for-the-badge&logo=discord)](https%3A%2F%2Fdiscord.gg%2Fds7nb93mYj)
+
 The Xahau cheatsheet written by [Cbot](https://x.com/Cbot_Xrpl). This cheatsheet lists the main websites, tools, and projects that I use often and find relevant.
 
 ## Basics ☄️
