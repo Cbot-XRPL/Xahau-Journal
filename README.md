@@ -11,7 +11,7 @@ Standard blockchain links
 |Name/Link|Description|
 |-----------|-------|
 |[Xahau Docs](https://docs.xahau.network/)|How to for Xahau|
-|[Wallet](https://xaman.app/)| Secure and functional XRPL and XAHAU wallet|
+|[Xaman](https://xaman.app/)| Secure and functional XRPL and XAHAU wallet|
 |[Xahau Explorer](https://xahauexplorer.com/)| Standard blockchain explorer|
 |[xMagnetic Dex](https://xmagnetic.org/?network=xahau)| Decentralized exchange|
 
