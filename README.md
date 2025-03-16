@@ -63,7 +63,7 @@ Information useful if your running a validator or node
 
 |Name/Link|Description|
 |-----------|-------|
-|[Xahaud Source Code(https://github.com/Xahau)|Xahau source code|
+|[Xahaud Source Code](https://github.com/Xahau)|Xahau source code|
 |[Xahau Releases](https://build.xahau.tech/)|Current Xahau builds|
 |[Validator List](https://xahauexplorer.com/validators)|List of validator on the Xahau network|
 
