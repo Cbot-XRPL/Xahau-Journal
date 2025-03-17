@@ -84,7 +84,7 @@ Projects focused on Investment
 |[xMagnetic Dex](https://xmagnetic.org/?network=xahau)|Decentralized exchange|
 |[XAH Invest](https://xahinvest.com/)|Xahau compound interest tool|
 
-## Hooks to ineract with 🪝
+## Hooks to interact with 🪝
 A list of hooks that are designed for user to interact with instead of install on your address. These hooks live on chain and act autonomously. DYOR
 
 |Name/Link|Address|Description|
