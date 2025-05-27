@@ -37,6 +37,7 @@ Top wallets that work with XAH and XRP
 | [Crossmark](https://crossmark.io/)                | Browers Wallet Option|
 | [GemWallet](https://gemwallet.app/)                | New wallet with sleek UI|
 | [D'CENT](https://www.dcentwallet.com/)               |Hardwallet Option|
+| [LEDGER](https://www.ledger.com/)               |Hardwallet Option|
 
 
 
@@ -76,6 +77,7 @@ Projects galvanizing a Xahau community
 |[Xamini](https://xamini.io/)| Table tracker and community page|
 |[Xahau Community Discord](https://discord.gg/hhVDGgEgAd)| Community discord|
 |[Xahau merch](https://xmerch.app)| xMerch|
+|[Document signing Software]([https://xmerch.app](https://xahaudocproof.com/))| Xahaudocproof|
 
 ## Trading/Investment 📈
 Projects focused on Investment 
