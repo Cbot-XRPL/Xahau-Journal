@@ -75,6 +75,7 @@ Projects galvanizing a Xahau community
 |-----------|-------|
 |[Xamini](https://xamini.io/)| Table tracker and community page|
 |[Xahau Community Discord](https://discord.gg/hhVDGgEgAd)| Community discord|
+|[Xahau merch](https://xmerch.app)| xMerch|
 
 ## Trading/Investment 📈
 Projects focused on Investment 
