@@ -114,7 +114,7 @@ Tokens Trading on Xahau DYOR
 |Name/Link|Ticker|Description|
 |-----------|-------|------|
 |[Evernode](https://www.evernode.org/)|EVR|A global permission-less, decentralised DePIN for ultra-flexible, ultra powerful dApps|
-|[TAM](https://x.com/tammy_token)|TAM|AI Agent MEME token|
+
 
 
 ---
